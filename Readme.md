@@ -14,6 +14,8 @@ To **visually demonstrate** how easy it is to fake GitHub contributions and why 
 - Force-push the lie
 
 This creates a clean, suspiciously perfect GitHub graph.
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/5553d766-3962-44cd-b4e8-5c0a990bd557" />
+
 
 ## ⚠️ Why?
 
